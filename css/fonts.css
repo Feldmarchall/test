@@ -1,0 +1,24 @@
+@font-face {
+	font-family: "Metaplusbook-roman";
+	src: url("../fonts/Metaplusbook-roman.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Metaplus-bold-roman";
+	src: url("../fonts/Metaplus-bold-roman.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Arial-monospaced-mt";
+	src: url("../fonts/Arial-monospaced-mt.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Gotham-black";
+	src: url("../fonts/Gotham-black.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Good-times";
+	src: url("../fonts/Good-times.ttf") format("truetype");
+}
